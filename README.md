@@ -89,7 +89,7 @@ Please list two areas of the assignment you'd like to **discuss further with you
 
 Here's a walkthrough of implemented user stories:
 
-<a href="https://imgur.com/Rk0UoeF"><img src="https://i.imgur.com/Rk0UoeF.gif" title="source: imgur.com" /></a> GIF created with [LiceCap](http://www.cockos.com/licecap/).
+![Video Walkthrough](TumblrFeedGif2.gif) GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 
 ## Notes
