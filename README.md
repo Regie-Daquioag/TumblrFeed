@@ -91,7 +91,6 @@ Here's a walkthrough of implemented user stories:
 
 <a href="https://imgur.com/Rk0UoeF"><img src="https://i.imgur.com/Rk0UoeF.gif" title="source: imgur.com" /></a> GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
-![Video Walkthrough](https://i.imgur.com/Rk0UoeF.gif)
 
 ## Notes
 
