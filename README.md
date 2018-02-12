@@ -28,6 +28,8 @@ Please list two areas of the assignment you'd like to **discuss further with you
 
 ## Video Walkthrough
 
+https://i.imgur.com/vOx2iS6.gifv
+
 Here's a walkthrough of implemented user stories:
 
 <img src='https://i.imgur.com/97UmP2j.gifv' title='Video Walkthrough' width='' alt='Video Walkthrough' />
@@ -42,7 +44,7 @@ Describe any challenges encountered while building the app.
 
 ## License
 
-Copyright 2018 Nicole Hipolito
+Copyright 2018 Nicole Hipolito and Regie Daquioag
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
@@ -60,7 +62,7 @@ limitations under the License.
 
 **Tumblr Feed** is a photo browsing app app using the [The Tumblr API](https://www.tumblr.com/docs/en/api/v2#posts).
 
-Time spent: **X** hours spent in total
+Time spent: **2** hours spent in total
 
 ## User Stories
 
@@ -80,24 +82,27 @@ The following **additional** user stories are implemented:
 
 Please list two areas of the assignment you'd like to **discuss further with your peers** during the next class (examples include better ways to implement something, how to extend your app in certain ways, etc):
 
-1.
-2.
+1. We would like to go over what segue is.
+2. Also what does the for and at mean in the functions
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://i.imgur.com/vOx2iS6.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+<a href="https://imgur.com/vOx2iS6"><img src="https://i.imgur.com/vOx2iS6.gif" title="source: imgur.com" /></a>
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
 Describe any challenges encountered while building the app.
+-- Another challenge my partner and I were having problems was why the UIImage was not in the photoViewController but then we realized that it was inside a cell so we had to access the cell in order to get the image we wanted.
 
 ## License
 
-Copyright [yyyy] [name of copyright owner]
+Copyright 2018 Nicole Hipolito and Regie Daquioag
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
